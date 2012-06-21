@@ -1,0 +1,63 @@
+rebuild-needed = false
+variant = Android/Android\\ 2.x Release Finalizer 
+success = true
+timestamp = 1332847053075
+output = /Users/feonx/workspace/MosirisV2/FinalOutput/Release/Android/Android 2.x/package/MosirisV2.apk
+
+[files]
+LocalFiles/images/login_button.png = 1332770099000
+LocalFiles/js/bridge.js = 1332346823000
+LocalFiles/images/logout_button.png = 1332751929000
+LocalFiles/images/button.png = 1332752276000
+LocalFiles/js/navigation.js = 1332847049000
+LocalFiles/js/jquery1.7.js = 1332347713000
+LocalFiles/index.html = 1332789570000
+.project = 1332346805000
+LocalFiles/images/logo.png = 1332346213000
+LocalFiles/.DS_Store = 1332845169000
+LocalFiles/images/textfield.gif = 1332767778000
+LocalFiles/images/title_login.gif = 1332770289000
+LocalFiles/info.html = 1332765353000
+.mosyncproject.local = 1332346834000
+.mosyncproject = 1332346834000
+LocalFiles/login.html = 1332770190000
+LocalFiles/js/script.js = 1332766042000
+.cproject = 1332346805000
+LocalFiles/menu.html = 1332765444000
+LocalFiles/images/pers_button.png = 1332751929000
+LocalFiles/results.html = 1332790062000
+LocalFiles/images/results_button.png = 1332751929000
+.settings/org.eclipse.wst.jsdt.ui.superType.container = 1332346805000
+main.cpp = 1332346805000
+.build = 1332346805000
+Resources/Resources.lst = 1332346805000
+LocalFiles/images/MoSyncLogo.png = 1332346805000
+LocalFiles/result.html = 1332513144000
+LocalFiles/resultaat.html = 1332504109000
+LocalFiles/stylesheet/style.css = 1332770832000
+LocalFiles/images/header_bar.gif = 1332769991000
+.DS_Store = 1332790656000
+.settings/org.eclipse.wst.jsdt.ui.superType.name = 1332346805000
+Resources/LocalFiles.bin = 1332847053000
+
+[dependencies]
+/MosirisV2/FinalOutput/Release/Android/Android 2.x/main.s = /MosirisV2/Applications/MoSync/include/MAUtil/Dictionary_impl.h, /MosirisV2/Applications/MoSync/include/MAUtil/HashDict.h, /MosirisV2/Applications/MoSync/include/IX_WIDGET.h, /MosirisV2/Applications/MoSync/include/MAUtil/Moblet.h, /MosirisV2/main.cpp, /MosirisV2/Applications/MoSync/include/mavsprintf.h, /MosirisV2/Applications/MoSync/include/maheap.h, /MosirisV2/Applications/MoSync/include/MAUtil/collection_common.h, /MosirisV2/Applications/MoSync/include/NativeUI/WebView.h, /MosirisV2/Applications/MoSync/include/MAUtil/HashMap.h, /MosirisV2/Applications/MoSync/include/mastring.h, /MosirisV2/Applications/MoSync/include/MAUtil/RefCounted.h, /MosirisV2/Applications/MoSync/include/MAUtil/Vector.h, /MosirisV2/Applications/MoSync/include/NativeUI/WidgetUtil.h, /MosirisV2/Applications/MoSync/include/conprint.h, /MosirisV2/Applications/MoSync/include/MAUtil/Map.h, /MosirisV2/Applications/MoSync/include/Wormhole/WebAppMoblet.h, /MosirisV2/Applications/MoSync/include/MAUtil/HashMap_impl.h, /MosirisV2/Applications/MoSync/include/NativeUI/Screen.h, /MosirisV2/Applications/MoSync/include/mactype.h, /MosirisV2/Applications/MoSync/include/MAUtil/ListenerSet.h, /MosirisV2/Applications/MoSync/include/MAUtil/String.h, /MosirisV2/Applications/MoSync/include/MAUtil/Environment.h, /MosirisV2/Applications/MoSync/include/maassert.h, /MosirisV2/Applications/MoSync/include/kazlib/dict.h, /MosirisV2/Applications/MoSync/include/limits.h, /MosirisV2/Applications/MoSync/include/Wormhole/WebViewMessage.h, /MosirisV2/Applications/MoSync/include/MAUtil/HashDict_impl.h, /MosirisV2/Applications/MoSync/include/maapi.h, /MosirisV2/Applications/MoSync/include/MAUtil/Dictionary.h, /MosirisV2/Applications/MoSync/include/Wormhole/FileUtil.h, /MosirisV2/Applications/MoSync/include/maarg.h, /MosirisV2/Applications/MoSync/include/ma.h, /MosirisV2/Applications/MoSync/include/NativeUI/Widget.h, /MosirisV2/Applications/MoSync/include/kazlib/hash.h, /MosirisV2/Applications/MoSync/include/maapi_defs.h, /MosirisV2/Applications/MoSync/include/MAUtil/util.h
+/MosirisV2/FinalOutput/Release/Android/Android 2.x/MAHeaders.h = /MosirisV2/Resources/Resources.lst
+/MosirisV2/FinalOutput/Release/Android/Android 2.x/resources = /MosirisV2/Resources/LocalFiles.bin
+/MosirisV2/main.cpp = /MosirisV2/FinalOutput/Release/Android/Android 2.x/main.s
+/MosirisV2/Resources/Resources.lst = /MosirisV2/FinalOutput/Release/Android/Android 2.x/resources
+/MosirisV2/Resources/LocalFiles.bin = /MosirisV2/LocalFiles/stylesheet, /MosirisV2/LocalFiles/js/bridge.js, /MosirisV2/LocalFiles/menu.html, /MosirisV2/LocalFiles/images/textfield.gif, /MosirisV2/LocalFiles/images/button.png, /MosirisV2/LocalFiles/images, /MosirisV2/LocalFiles/stylesheet/style.css, /MosirisV2/LocalFiles/results.html, /MosirisV2/LocalFiles/images/title_login.gif, /MosirisV2/LocalFiles/images/header_bar.gif, /MosirisV2/LocalFiles, /MosirisV2/LocalFiles/.DS_Store, /MosirisV2/LocalFiles/images/login_button.png, /MosirisV2/LocalFiles/js, /MosirisV2/LocalFiles/info.html, /MosirisV2/LocalFiles/login.html, /MosirisV2/LocalFiles/images/logo.png, /MosirisV2/LocalFiles/js/navigation.js, /MosirisV2/LocalFiles/index.html, /MosirisV2/LocalFiles/js/jquery1.7.js
+
+[build-properties]
+build.prefs:memory.heap/Debug = 3072
+build.prefs:additional.libraries/Debug = MAUtilD.lib, NativeUID.lib, MAFSD.lib, WormholeD.lib
+com.mobilesorcery.sdk.html5.support = true
+template.id = project.html5.hybrid
+build.prefs:additional.libraries = MAUtil.lib, NativeUI.lib, MAFS.lib, Wormhole.lib
+build.prefs:memory.stack/Release = 512
+build.prefs:memory.data/Debug = 4096
+build.prefs:memory.heap/Release = 3072
+build.prefs:memory.stack/Debug = 512
+privileged.access.token = 380CD592A6BCF7B6B355A0D9DE842D55
+build.prefs:memory.data/Release = 4096
+

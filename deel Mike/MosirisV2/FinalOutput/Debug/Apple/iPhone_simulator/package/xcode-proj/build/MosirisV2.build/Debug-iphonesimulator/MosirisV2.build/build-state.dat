@@ -1,0 +1,393 @@
+TMosirisV2
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/Info.plist MosirisV2.plist
+cCpResource resources build/Debug-iphonesimulator/MosirisV2.app/resources
+cCpResource data_section.bin build/Debug-iphonesimulator/MosirisV2.app/data_section.bin
+cCpResource Icon-72.png build/Debug-iphonesimulator/MosirisV2.app/Icon-72.png
+cCpResource Icon.png build/Debug-iphonesimulator/MosirisV2.app/Icon.png
+cProcessPCH /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gvyuiwvpwuzmkvfeoxxktuiecslg/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-aqhijjqwjwiufjceporhkczgkjsz/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gwrqnislcnuegpcyrzjudgsqqaqi/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/rebuild.build.o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/main.o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncAppDelegate.o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncViewController.o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/MosirisV2 normal i386
+cGenerateDSYMFile /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app.dSYM /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/MosirisV2
+cTouch /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F7217470000000000000110
+t1332877127
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004E7806CF000000000018D430
+t1316488911
+s1627184
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004E78054400000000000954B0
+t1316488516
+s611504
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E72F1F200000000002F4210
+t1316155890
+s3097104
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004E78059F00000000000859A0
+t1316488607
+s547232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000004E7805A600000000000F11E0
+t1316488614
+s987616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/EventKit.framework/EventKit
+c000000004E780612000000000014A5E0
+t1316488722
+s1353184
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F28F0000000000001534
+t1316156047
+s5428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004E7808D3000000000023A3F0
+t1316489427
+s2335728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004E78081300000000000CA7C0
+t1316489235
+s829376
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004E72F52C000000000001D2E0
+t1316156716
+s119520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E72F69C00000000001A9D20
+t1316157084
+s1744160
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004E78066A0000000000000BCB
+t1316488810
+s3019
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm
+c000000004F7219A50000000000000D26
+t1332877733
+s3366
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm
+c000000004F7219A500000000000007C1
+t1332877733
+s1985
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp
+c000000004F7219A6000000000011519B
+t1332877734
+s1135003
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Icon-72.png
+c000000004F7219AD000000000000090A
+t1332877741
+s2314
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Icon.png
+c000000004F7219AB0000000000000719
+t1332877739
+s1817
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch
+c000000004F7219A500000000000000BD
+t1332877733
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app.dSYM
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/Icon-72.png
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/Icon.png
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/Info.plist
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/MosirisV2
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/PkgInfo
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/data_section.bin
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/resources
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncAppDelegate.o
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncViewController.o
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MosirisV2.LinkFileList
+c000000004F7219B700000000000002F6
+t1332877751
+s758
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/rebuild.build.o
+t2
+s0
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/data_section.bin
+c000000004F7219A60000000000004830
+t1332877734
+s18480
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/libs/Release-iphonesimulator/libMoSyncLib.a
+c000000004F7219A600000000005216D0
+t1332877734
+s5379792
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/main.m
+c000000004F7219A600000000000003F2
+t1332877734
+s1010
+
+N/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/resources
+c000000004F7219A60000000000022886
+t1332877734
+s141446
+
+N/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-aqhijjqwjwiufjceporhkczgkjsz/MoSync_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gvyuiwvpwuzmkvfeoxxktuiecslg/MoSync_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gwrqnislcnuegpcyrzjudgsqqaqi/MoSync_Prefix.pch.pth
+t2
+s0
+
+NMosirisV2.plist
+c000000004F7219A6000000000000037B
+t1332877734
+s891
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2c6303345122b541^562c3a375122b541^---0#1#0#--18"Check dependencies36"AC757FF6-4548-467A-AD09-F9272D4DD523-
+
+CCompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncAppDelegate.o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s354570554.800754
+e354570554.909062
+r1
+xCompileC
+xbuild/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncAppDelegate.o
+x/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm0f2acd3a5122b541^6bb8e83a5122b541^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm0000000000000000^3439"CompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncAppDelegate.o Classes/MoSyncAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-generated-files.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-own-target-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-all-target-headers.hmap -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-project-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/include -IClasses -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources/i386 -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources -F/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator -include /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-aqhijjqwjwiufjceporhkczgkjsz/MoSync_Prefix.pch -MMD -MT dependencies -MF /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncAppDelegate.d -c /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm -o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncAppDelegate.o36"417F5DC8-5314-409D-B9C3-82341EF6CABC-
+
+CCompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncViewController.o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s354570554.801450
+e354570554.906605
+r1
+xCompileC
+xbuild/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncViewController.o
+x/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm6d56cd3a5122b541^ce16e83a5122b541^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm0000000000000000^3454"CompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncViewController.o Classes/MoSyncViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-generated-files.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-own-target-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-all-target-headers.hmap -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-project-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/include -IClasses -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources/i386 -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources -F/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator -include /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-aqhijjqwjwiufjceporhkczgkjsz/MoSync_Prefix.pch -MMD -MT dependencies -MF /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncViewController.d -c /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm -o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MoSyncViewController.o36"50B2C73E-7CA0-4932-926A-6AAE93A004A6-
+
+CCompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/main.o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354570554.720852
+e354570554.856381
+r1
+xCompileC
+xbuild/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/main.o
+x/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/main.mddb1b83a5122b541^543bdb3a5122b541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/main.m0000000000000000^3301"CompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-generated-files.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-own-target-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-all-target-headers.hmap -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-project-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/include -IClasses -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources/i386 -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources -F/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator -include /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gvyuiwvpwuzmkvfeoxxktuiecslg/MoSync_Prefix.pch -MMD -MT dependencies -MF /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/main.d -c /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/main.m -o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/main.o36"A6F315DB-F517-4B11-B12E-27C1F26634F7-
+
+CCompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/rebuild.build.o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s354570551.821533
+e354570554.245405
+r1
+xCompileC
+xbuild/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/rebuild.build.o
+x/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp726bd2375122b541^56d23e3a5122b541^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp0000000000000000^3181"CompileC build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/rebuild.build.o Classes/rebuild.build.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-generated-files.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-own-target-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-all-target-headers.hmap -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-project-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/include -IClasses -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources/i386 -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources -F/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator -include /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gwrqnislcnuegpcyrzjudgsqqaqi/MoSync_Prefix.pch -MMD -MT dependencies -MF /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/rebuild.build.d -c /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp -o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/rebuild.build.o36"B99A3A8A-E00B-41BB-BCC9-2986DC2C8826-
+
+CCpResource Icon-72.png build/Debug-iphonesimulator/MosirisV2.app/Icon-72.png
+s354570551.278542
+e354570551.284600
+r1
+xCpResource
+xIcon-72.png
+xbuild/Debug-iphonesimulator/MosirisV2.app/Icon-72.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug-iphonesimulator/MosirisV2.app/Icon-72.png1a6f47375122b541^cfdb48375122b541^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/Icon-72.png00f490b8dcffdf42^660"CpResource Icon-72.png build/Debug-iphonesimulator/MosirisV2.app/Icon-72.png    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Icon-72.png /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app36"5FBA278B-1864-41DB-A830-9FF9786FF7A5-
+
+CCpResource Icon.png build/Debug-iphonesimulator/MosirisV2.app/Icon.png
+s354570551.278668
+e354570551.283443
+r1
+xCpResource
+xIcon.png
+xbuild/Debug-iphonesimulator/MosirisV2.app/Icon.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/MosirisV2.app/Icon.png876d47375122b541^ac8e48375122b541^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/Icon.png00f490b8dcffdf42^651"CpResource Icon.png build/Debug-iphonesimulator/MosirisV2.app/Icon.png    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/Icon.png /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app36"AB0E039F-8852-4C57-ACC2-708DA24E9B25-
+
+CCpResource data_section.bin build/Debug-iphonesimulator/MosirisV2.app/data_section.bin
+s354570551.277900
+e354570551.305174
+r1
+xCpResource
+xdata_section.bin
+xbuild/Debug-iphonesimulator/MosirisV2.app/data_section.bin
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/MosirisV2.app/data_section.bin8d4147375122b541^cd204e375122b541^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/data_section.bin00f490b8dcffdf42^675"CpResource data_section.bin build/Debug-iphonesimulator/MosirisV2.app/data_section.bin    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/data_section.bin /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app36"C1CEC32C-89EA-45EC-BB61-49EE7EE6A721-
+
+CCpResource resources build/Debug-iphonesimulator/MosirisV2.app/resources
+s354570551.277900
+e354570551.307160
+r1
+xCpResource
+xresources
+xbuild/Debug-iphonesimulator/MosirisV2.app/resources
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/MosirisV2.app/resources753f47375122b541^e4a24e375122b541^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/resources00f490b8dcffdf42^654"CpResource resources build/Debug-iphonesimulator/MosirisV2.app/resources    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/resources /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app36"F8108B4A-AA24-4492-B698-0FD85DE2B997-
+
+CGenerateDSYMFile /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app.dSYM /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/MosirisV2
+s354570556.972794
+e354570557.379069
+r1
+xGenerateDSYMFile
+x/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app.dSYM
+x/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/MosirisV2
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Generating /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app.dSYMac19f93c5122b541^780a613d5122b541^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app.dSYM00f490b8dcffdf42^667"GenerateDSYMFile build/Debug-iphonesimulator/MosirisV2.app.dSYM build/Debug-iphonesimulator/MosirisV2.app/MosirisV2    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/MosirisV2 -o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app.dSYM36"733B52E8-66B2-4B48-B194-D59C1243819D-
+
+CLd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/MosirisV2 normal i386
+s354570554.915858
+e354570556.966038
+r1
+xLd
+x/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/MosirisV2
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Link /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/MosirisV24b8fea3a5122b541^6951f73c5122b541^---0#0#0#--1731"Ld build/Debug-iphonesimulator/MosirisV2.app/MosirisV2 normal i386    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator -Llibs/Debug-iphonesimulator -L/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/libs/Release-iphonesimulator -F/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator -filelist /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/Objects-normal/i386/MosirisV2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -ObjC -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework MediaPlayer -weak_framework EventKit -weak_framework CoreMotion -framework AddressBook -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -weak_framework AVFoundation -framework CoreLocation -lMoSyncLib -framework OpenGLES -framework QuartzCore -weak_framework MessageUI -o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/MosirisV236"4C1E09B7-3D95-4531-835E-6B7847D5B3A5-
+
+CProcessInfoPlistFile /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/Info.plist MosirisV2.plist
+s354570551.261012
+e354570551.269074
+r1
+xProcessInfoPlistFile
+x/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/Info.plist
+xMosirisV2.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection23"Process MosirisV2.plistb6f642375122b541^fe4445375122b541^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/MosirisV2.plist0000000000000000^732"ProcessInfoPlistFile build/Debug-iphonesimulator/MosirisV2.app/Info.plist MosirisV2.plist    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MosirisV2.plist -genpkginfo /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app/Info.plist36"5AB79151-946D-44DA-9F0C-ED7A58CC17E1-
+
+CProcessPCH /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gvyuiwvpwuzmkvfeoxxktuiecslg/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354570551.315063
+e354570554.714280
+r1
+xProcessPCH
+x/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gvyuiwvpwuzmkvfeoxxktuiecslg/MoSync_Prefix.pch.pth
+xMoSync_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile MoSync_Prefix.pch5ce650375122b541^fddab63a5122b541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch0000000000000000^3196"ProcessPCH /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gvyuiwvpwuzmkvfeoxxktuiecslg/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-generated-files.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-own-target-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-all-target-headers.hmap -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-project-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/include -IClasses -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources/i386 -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources -F/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator -c /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch -o /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gvyuiwvpwuzmkvfeoxxktuiecslg/MoSync_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gvyuiwvpwuzmkvfeoxxktuiecslg/MoSync_Prefix.pch.d36"70C70B7B-AC5C-45F4-93D0-38F84183B219-
+
+CProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-aqhijjqwjwiufjceporhkczgkjsz/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s354570551.315099
+e354570554.793888
+r1
+xProcessPCH++
+x/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-aqhijjqwjwiufjceporhkczgkjsz/MoSync_Prefix.pch.pth
+xMoSync_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile MoSync_Prefix.pch4fe550375122b541^2c44cb3a5122b541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch0000000000000000^3253"ProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-aqhijjqwjwiufjceporhkczgkjsz/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-generated-files.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-own-target-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-all-target-headers.hmap -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-project-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/include -IClasses -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources/i386 -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources -F/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator -c /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch -o /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-aqhijjqwjwiufjceporhkczgkjsz/MoSync_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-aqhijjqwjwiufjceporhkczgkjsz/MoSync_Prefix.pch.d36"541504D2-78B3-464B-8D08-C8AF5BC2B665-
+
+CProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gwrqnislcnuegpcyrzjudgsqqaqi/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s354570551.315126
+e354570551.815093
+r1
+xProcessPCH++
+x/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gwrqnislcnuegpcyrzjudgsqqaqi/MoSync_Prefix.pch.pth
+xMoSync_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile MoSync_Prefix.pch47e350375122b541^dfa9d0375122b541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch0000000000000000^3013"ProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gwrqnislcnuegpcyrzjudgsqqaqi/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-generated-files.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-own-target-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-all-target-headers.hmap -iquote /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/MosirisV2-project-headers.hmap -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/include -IClasses -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources/i386 -I/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/MosirisV2.build/Debug-iphonesimulator/MosirisV2.build/DerivedSources -F/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator -c /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch -o /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gwrqnislcnuegpcyrzjudgsqqaqi/MoSync_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-gwrqnislcnuegpcyrzjudgsqqaqi/MoSync_Prefix.pch.d36"1ADBEAE1-97C3-4DDF-8DA6-C267CFF60B4C-
+
+CTouch /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app
+s354570557.387305
+e354570557.423292
+r1
+xTouch
+x/Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Touch /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app4337633d5122b541^425d6c3d5122b541^---0#0#0#--436"Touch build/Debug-iphonesimulator/MosirisV2.app    cd /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/feonx/workspace/MosirisV2/FinalOutput/Debug/Apple/iPhone_simulator/package/xcode-proj/build/Debug-iphonesimulator/MosirisV2.app36"1CD9FE22-F5B5-4E98-BFDB-270E24E0400D-
+

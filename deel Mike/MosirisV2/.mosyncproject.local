@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="1.2">
+<active.build.cfg active="Debug"/>
+<target-profile device="iPhone" vendor="Apple"/>
+<properties>
+<property key="privileged.access.token" value="380CD592A6BCF7B6B355A0D9DE842D55"/>
+</properties>
+</project>
